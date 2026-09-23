@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\bin\Debug\net10.0\ConverterApp.exe
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\bin\Debug\net10.0\ConverterApp.deps.json
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\bin\Debug\net10.0\ConverterApp.runtimeconfig.json
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\bin\Debug\net10.0\ConverterApp.dll
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\bin\Debug\net10.0\ConverterApp.pdb
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.AssemblyInfo.cs
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.dll
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\refint\ConverterApp.dll
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.pdb
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ConverterApp.genruntimeconfig.cache
+C:\Users\Admin\Desktop\3.1 Cours\.NET\Lab01\obj\Debug\net10.0\ref\ConverterApp.dll
